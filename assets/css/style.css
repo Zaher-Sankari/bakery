@@ -1,0 +1,9 @@
+/*Arbutus 400 font for logo text*/
+@import url('https://fonts.googleapis.com/css2?family=Arbutus+Slab&display=swap');
+/*******************************/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat',sans-serif;
+}
